@@ -1,6 +1,6 @@
 ---
 description: Create the new city with more fun
-cover: .gitbook/assets/2022-02-19_07.35.45.png
+cover: .gitbook/assets/2022-02-19_07.35.45 (1).png
 coverY: -783.0738522954092
 ---
 

@@ -1,9 +1,15 @@
 # Table of contents
 
 * [💙 UranCity](README.md)
-* [Page 1](page-1.md)
+* [🧑💻 Habitants](habitants/README.md)
+  * [🤓 Vermil18](habitants/vermil18.md)
+  * [💻 P\_PandaGold\_d](habitants/p\_pandagold\_d.md)
+  * [👑 ZeTSuu\_uu](habitants/zetsuu\_uu.md)
+  * [🎮 Flux\_kh](habitants/flux\_kh.md)
 * [✨ Lieux mythiques](lieux-mythiques/README.md)
   * [🌟 Place Étoile](lieux-mythiques/place-etoile.md)
   * [🛎 Mairie](lieux-mythiques/mairie.md)
   * [🏛 Panthéon](lieux-mythiques/pantheon.md)
 * [🧩 Extensions](extensions.md)
+* [💾 GitHub](https://github.com/UranCity)
+* [▶ Jouer](https://github.com/UranCity/Installer#readme)
