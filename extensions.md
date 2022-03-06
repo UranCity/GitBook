@@ -28,7 +28,7 @@ Aucun mods optionnels à été proposé
 {% endtab %}
 
 {% tab title="En attente" %}
-<table><thead><tr><th>Nom</th><th data-type="select">Statut</th></tr></thead><tbody><tr><td><a href="https://www.curseforge.com/minecraft/mc-mods/jade"><strong>Jade</strong></a><strong></strong></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Nom</th><th data-type="select">Statut</th></tr></thead><tbody><tr><td><strong></strong><a href="https://www.curseforge.com/minecraft/mc-mods/fuzes-relics"><strong>Fuze's Relics</strong></a><strong></strong></td><td></td></tr><tr><td><a href="https://www.curseforge.com/minecraft/mc-mods/jade"><strong>Jade</strong></a><strong></strong></td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Refusés" %}
