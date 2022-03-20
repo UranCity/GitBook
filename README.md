@@ -14,6 +14,8 @@ La ville originale étant perdu à jamais, les [habitants **d'UranCity**](broken
 
 … Et c'est ainsi que commença notre nouvelle histoire… :stars:
 
+![Statut du serveur](https://status.urancity.ml)
+
 {% content-ref url="lieux-mythiques/" %}
 [lieux-mythiques](lieux-mythiques/)
 {% endcontent-ref %}
