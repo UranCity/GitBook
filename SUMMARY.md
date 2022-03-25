@@ -11,5 +11,6 @@
   * [🛎 Mairie](lieux-mythiques/mairie.md)
   * [🏛 Panthéon](lieux-mythiques/pantheon.md)
 * [🧩 Extensions](extensions.md)
+* [📡 Statut](statut.md)
 * [💾 GitHub](https://github.com/UranCity)
 * [▶ Jouer](https://github.com/UranCity/Installer#readme)
